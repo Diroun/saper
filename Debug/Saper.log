@@ -1,0 +1,11 @@
+﻿  Cell.cpp
+  Field.cpp
+  GetCell.cpp
+  Main.cpp
+C:\Users\mrdir\OneDrive\Рабочий стол\mineswepper\Minesweeper-Main\Minesweeper-Main\Source\Saper\Saper\Main.cpp(52,23): warning C4244: инициализация: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  Создание кода...
+  Saper.vcxproj -> C:\Users\mrdir\OneDrive\Рабочий стол\mineswepper\Minesweeper-Main\Minesweeper-Main\Source\Saper\Debug\Saper.exe
